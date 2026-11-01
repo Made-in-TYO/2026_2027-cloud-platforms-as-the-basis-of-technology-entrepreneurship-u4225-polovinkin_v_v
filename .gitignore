@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Редакторы кода
+.vscode/
+.idea/
+
+# Ключи и секреты (в репо не попадают никогда)
+.env
+*.pem
+*.key
+*service-account*.json
