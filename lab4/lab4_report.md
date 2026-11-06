@@ -6,7 +6,7 @@ Group: U4225
 Author: Половинкин Валерий Валерьевич  
 Lab: Lab4  
 Date of create: 04.11.2026  
-Date of finished:  
+Date of finished: 06.11.2026  
 
 # Лабораторная работа №4 «Разработка инфраструктуры MVP AI приложения»
 

@@ -6,7 +6,7 @@ Group: U4225
 Author: Половинкин Валерий Валерьевич  
 Lab: Lab2  
 Date of create: 03.11.2026  
-Date of finished:  
+Date of finished: 06.11.2026  
 
 # Лабораторная работа №2 «Исследование Cloud Run»
 

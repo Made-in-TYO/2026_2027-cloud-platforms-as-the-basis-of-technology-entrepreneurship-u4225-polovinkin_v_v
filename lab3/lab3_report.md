@@ -6,7 +6,7 @@ Group: U4225
 Author: Половинкин Валерий Валерьевич  
 Lab: Lab3  
 Date of create: 03.11.2026  
-Date of finished:  
+Date of finished: 06.11.2026  
 
 # Лабораторная работа №3 «Исследование Cloud Storage»
 

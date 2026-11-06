@@ -6,7 +6,7 @@ Group: U4225
 Author: Половинкин Валерий Валерьевич  
 Lab: Lab1  
 Date of create: 01.11.2026  
-Date of finished:  
+Date of finished: 06.11.2026  
 
 # Лабораторная работа №1 «Обзор Google Cloud и исследование основных сервисов»
 

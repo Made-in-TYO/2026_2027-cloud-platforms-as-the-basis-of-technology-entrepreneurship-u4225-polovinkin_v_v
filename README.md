@@ -10,10 +10,10 @@
 
 | № | Тема | Отчет | Статус |
 | --- | --- | --- | --- |
-| 1 | Обзор Google Cloud и исследование основных сервисов | [lab1_report.md](lab1/lab1_report.md) | Выполнена, ожидает защиты |
-| 2 | Исследование Cloud Run | [lab2_report.md](lab2/lab2_report.md) | Выполнена, ожидает защиты |
-| 3 | Исследование Cloud Storage | [lab3_report.md](lab3/lab3_report.md) | Выполнена, ожидает защиты |
-| 4 | Разработка инфраструктуры MVP AI приложения | [lab4_report.md](lab4/lab4_report.md) | Выполнена, ожидает защиты |
+| 1 | Обзор Google Cloud и исследование основных сервисов | [lab1_report.md](lab1/lab1_report.md) | Защищена 06.11.2026 |
+| 2 | Исследование Cloud Run | [lab2_report.md](lab2/lab2_report.md) | Защищена 06.11.2026 |
+| 3 | Исследование Cloud Storage | [lab3_report.md](lab3/lab3_report.md) | Защищена 06.11.2026 |
+| 4 | Разработка инфраструктуры MVP AI приложения | [lab4_report.md](lab4/lab4_report.md) | Защищена 06.11.2026 |
 
 ## Структура репозитория
 
